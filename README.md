@@ -19,7 +19,7 @@ sql:test2的代码
 <table>
     <tr>
         <td>
-            <img src="http://quxjj6jyh.hn-bkt.clouddn.com/image/1.png" width="100%" height="100%">
+            <img src="http://quxjj6jyh.hn-bkt.clouddn.com/image/1.png" width="80%" height="100%">
             <h4 align="center">运行结果1.png</h4>
         </td>
     </tr>
